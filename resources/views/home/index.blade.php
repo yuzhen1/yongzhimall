@@ -198,6 +198,7 @@
 							location.href="/cart/list";
 						}else{
 							alert(res.msg);
+							location.href="/login";
 						}
 					},
 					'json'
