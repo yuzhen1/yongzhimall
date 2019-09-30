@@ -31,7 +31,7 @@
     <div class="navbar-top">
         <!-- site brand	 -->
         <div class="site-brand">
-            <a href="index.html"><h1 style="color:pink">💗迪士尼</h1></a>
+            <a href="index.html"><h1 style="color:pink">商城购物</h1></a>
         </div>
         <!-- end site brand	 -->
         <div class="side-nav-panel-right">
